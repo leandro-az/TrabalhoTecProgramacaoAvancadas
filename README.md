@@ -1,6 +1,6 @@
 ## TrabalhoTecProgramacaoAvancadas
 
 
-Repositório referente ao trabalho da disciplina de técnicas de Programação Avançada.
+# RepositÃ³rio referente ao trabalho da disciplina de tÃ©cnicas de ProgramaÃ§Ã£o AvanÃ§ada.
 
-Trabalho Desenvolvido para disciplina de Tecnicas de programação avançada. Desenvolvido em JAVA com Hibernate,AspectJ,Log4J,Swing,Spring MVC e paginação de amostragem dos dados Leandro Silva Azevedo de Almeida
+Trabalho Desenvolvido para disciplina de Tecnicas de programaÃ§Ã£o avanÃ§ada. Desenvolvido em JAVA com Hibernate,AspectJ,Log4J,Swing,Spring MVC e paginaÃ§Ã£o de amostragem dos dados Leandro Silva Azevedo de Almeida
